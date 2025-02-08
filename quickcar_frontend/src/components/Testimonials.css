@@ -1,0 +1,28 @@
+
+  .testimonial-card {
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  
+  .testimonial-author {
+    font-size: 1.25rem;
+    color: #333;
+  }
+  
+  .testimonial-role {
+    font-size: 0.875rem;
+    color: #666;
+  }
+  
+  .testimonial-text {
+    font-size: 1rem;
+    margin-top: 10px;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    display: none;
+  }
+  

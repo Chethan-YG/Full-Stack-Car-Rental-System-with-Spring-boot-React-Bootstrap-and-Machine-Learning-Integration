@@ -1,0 +1,54 @@
+input[type="password"]::-ms-reveal {
+  display: none;
+}
+
+
+input[type="password"]::-webkit-search-clear-button,
+input[type="password"]::-webkit-search-decoration,
+input[type="password"]::-webkit-search-done-button,
+input[type="password"]::-webkit-search-results-button,
+input[type="password"]::-webkit-search-results-decoration {
+  display: none;
+}
+
+
+input[type="password"]::-moz-placeholder {
+  visibility: hidden;
+}
+
+.form-group label {
+    color: #666;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    font-weight: 700;
+    display: block;
+    text-align: left;
+  }
+
+
+  .container {
+    margin-top: 100px;
+    max-width: 500px;
+  }
+
+  .alert-container .alert {
+    display: none;
+  }
+
+  .alert{
+    width:30%;
+
+  }
+
+  .input-group .form-control:focus {
+    z-index: 1;
+  }
+  
+  .norm {
+    z-index: 2;
+  }
+  
+  .input-group-text.btn {
+    cursor: pointer;
+  }
+  

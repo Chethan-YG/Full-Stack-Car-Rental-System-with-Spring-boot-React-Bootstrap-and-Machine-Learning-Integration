@@ -1,0 +1,13 @@
+.form-group label {
+    color: #666;
+    font-size: 1.5rem;
+    letter-spacing: 1px;
+    font-weight: 700;
+    display: block;
+    text-align: left;
+  }
+
+  .container {
+    box-shadow: 2px 1px 11px 0px rgb(176 170 170 / 50%),
+      inset 3px 2px 10px 1px rgb(89 76 76 / 10%), 2px 20px 40px rgb(87 8 8 / 10%);
+  }
