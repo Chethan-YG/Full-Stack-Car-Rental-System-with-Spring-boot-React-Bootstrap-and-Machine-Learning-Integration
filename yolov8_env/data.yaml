@@ -1,0 +1,12 @@
+names:
+- crack_and_hole
+- medium_deformation
+- severe_deformation
+- severe_scratch
+- slight_deformation
+- slight_scratch
+- windshield_damage
+nc: 7
+test: C:\Users\cheth\OneDrive\Documents\datasets\test\images
+train: C:\Users\cheth\OneDrive\Documents\datasets\train\images
+val: C:\Users\cheth\OneDrive\Documents\datasets\val\images
