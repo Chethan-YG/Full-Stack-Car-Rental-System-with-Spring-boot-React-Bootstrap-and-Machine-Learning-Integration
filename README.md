@@ -163,7 +163,7 @@ Make sure to configure the **Database, Mail Server, and API keys** for Twilio, R
 [Click here](https://www.dropbox.com/scl/fi/5xijs94tk1qvt0l2ycr01/Screen-Recording-2024-08-08-200836.mp4?rlkey=unt14g8tolcxtg37n28pb3y11&st=5is4fmot&dl=0)
 
 ## **License**
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
